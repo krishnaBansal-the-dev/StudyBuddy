@@ -32,7 +32,6 @@ The current version implements the complete RAG backend pipeline. A Streamlit-ba
 - 🤖 Context-aware answer generation using Groq LLM
 - 📝 Prompt engineering to reduce hallucinations
 - 🧹 Automatic ChromaDB cleanup after execution
-- 🏗️ Easy-to-understand modular pipeline
 
 ---
 
